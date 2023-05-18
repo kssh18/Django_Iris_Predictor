@@ -1,1 +1,1 @@
-# Django_Iris_Predictor
+# YT-DjangoProject-Iris-App
